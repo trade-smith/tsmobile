@@ -1,0 +1,8 @@
+{
+  "name": "tsmobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "353847dd"
+}
